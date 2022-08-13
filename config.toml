@@ -1,3 +1,62 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "http://rvasdug.github.io/"
+languageCode = "en-us"
+title = "RVASDUG"
+theme = "minimal"
+disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
+
+[params]
+    author = "Sujith Paul"
+    description = "RVA Software Development User Group"
+    githubUsername = "rvasdug"
+    accent = "lightseagreen"
+    showBorder = true
+    backgroundColor = "beige"
+    font = "Audiowide" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "java", "javascript"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+[[menu.main]]
+    url = "/post/"
+    name = "Posts"
+    weight = 3
+
+[[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 4
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "https://www.meetup.com/rva-software-development-user-group/"
+    name = "fab fa-meetup"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/rvasdug/"
+    name = "fab fa-github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/rvasdug/"
+    name = "fab fa-twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "mailto:rvasdug@gmail.com"
+    name = "fas fa-envelope"
+    weight = 4
