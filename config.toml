@@ -1,4 +1,4 @@
-baseURL = "http://rvasdug.github.io/"
+baseURL = "https://rvasdug.github.io/"
 languageCode = "en-us"
 title = "RVASDUG"
 theme = "minimal"
@@ -15,7 +15,7 @@ googleAnalytics = ""
     font = "Audiowide" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "java", "javascript"]
+    highlightLanguages = ["java", "javascript", "go", "python", "shell"]
 
 [[menu.main]]
     url = "/"
@@ -27,15 +27,15 @@ googleAnalytics = ""
     name = "About"
     weight = 2
 
-[[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 3
+#[[menu.main]]
+#    url = "/post/"
+#    name = "Posts"
+#    weight = 3
 
-[[menu.main]]
-    url = "/project/"
-    name = "Projects"
-    weight = 4
+#[[menu.main]]
+#    url = "/project/"
+#    name = "Projects"
+#    weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
