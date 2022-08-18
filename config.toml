@@ -47,8 +47,8 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/rvasdug/"
-    name = "fab fa-github"
+    url = "https://rva-dev.slack.com/"
+    name = "fab fa-slack"
     weight = 2
 
 [[menu.icon]]
@@ -57,6 +57,16 @@ googleAnalytics = ""
     weight = 3
 
 [[menu.icon]]
+    url = "https://www.youtube.com/channel/UCn-ZV1RVYLmsRdgO3vXFpRQ/"
+    name = "fab fa-youtube"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://github.com/rvasdug/"
+    name = "fab fa-github"
+    weight = 5
+
+[[menu.icon]]
     url = "mailto:rvasdug@gmail.com"
     name = "fas fa-envelope"
-    weight = 4
+    weight = 6
