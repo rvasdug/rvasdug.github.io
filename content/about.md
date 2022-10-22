@@ -10,3 +10,17 @@ The focus of the group is software development in more of a polyglot manner, the
 The speakers for this group are local and regional developers with a passion for technology as well as sharing knowledge with fellow developers.
 
 In addition to monthly User Group meetings we will provide occasional weekend boot camps where we will build entire working prototypes of various solutions as to facilitate deeper dives into various technologies.
+
+## We are kicking off 2022 with a revamped vision!
+
+This new direction will be based on the following three pillars:
+
+* COMMUNITY
+  * Supportive group of peers and mentors
+  * Sense of belonging
+* CRAFTSMANSHIP
+  * Focus on developing skills
+  * Safe space to learn, practice and collaborate outside of work
+* CONTRIBUTION
+  * Give back to local organizations
+  * Open source
