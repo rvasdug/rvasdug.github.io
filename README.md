@@ -5,4 +5,4 @@ Static website of the RVA Software Development User Group
 [hugo](https://gohugo.io/)
 
 ## Theme
-[Minimal](https://themes.gohugo.io/themes/minimal/) 
+[Fork](https://github.com/rvasdug/minimal) of [Minimal](https://themes.gohugo.io/themes/minimal/) 
