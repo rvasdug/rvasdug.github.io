@@ -1,4 +1,4 @@
-baseURL = "https://rvasdug.github.io/"
+baseURL = "https://rvasdug.org/"
 languageCode = "en-us"
 title = "RVASDUG"
 theme = "minimal"
