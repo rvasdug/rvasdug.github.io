@@ -1,0 +1,27 @@
+GraphQL Query
+
+query ($eventId: ID!) {
+  event(id: $eventId) {
+    title
+    description
+    topics {
+      edges {
+        node {
+          name
+        }
+      }
+    }
+    venues {
+      address
+      city
+      state
+      postalCode
+    }
+    dateTime
+    endTime
+    eventUrl
+    featuredEventPhoto {
+      standardUrl
+    }
+  }
+}
