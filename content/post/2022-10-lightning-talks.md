@@ -1,7 +1,7 @@
 ---
 title: "Lightning Talks Are Back"
 date: 2022-10-22
-tags: ["meetup", "software development", "lightning talks"]
+tags: ["meetup", "software development", "lightning talks", "craftsmanship"]
 draft: false
 ---
 
