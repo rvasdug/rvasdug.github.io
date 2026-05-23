@@ -1,7 +1,7 @@
 baseURL = "https://rvasdug.org/"
 languageCode = "en-us"
 title = "RVASDUG"
-theme = "minimal"
+theme = "minimalrva"
 #disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
