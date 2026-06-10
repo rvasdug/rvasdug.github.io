@@ -80,3 +80,7 @@ googleAnalytics = ""
     url = "mailto:rvasdug@gmail.com"
     name = "fas fa-envelope"
     weight = 7
+    
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
