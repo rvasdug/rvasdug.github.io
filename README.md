@@ -6,3 +6,5 @@ Static website of the RVA Software Development User Group
 
 ## Theme
 [Fork](https://github.com/rvasdug/minimalrva) of [Minimal](https://themes.gohugo.io/themes/minimal/) 
+
+Update theme: `git submodule update --recursive --remote`
