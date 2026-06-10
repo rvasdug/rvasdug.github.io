@@ -1,3 +1,6 @@
 [submodule "themes/minimal"]
 	path = themes/minimal
 	url = https://github.com/rvasdug/minimal.git
+[submodule "themes/minimalrva"]
+	path = themes/minimalrva
+	url = git@github.com:rvasdug/minimalrva
