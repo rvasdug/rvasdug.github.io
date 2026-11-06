@@ -47,8 +47,8 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "https://www.meetup.com/rva-software-development-user-group/"
-    name = "fab fa-meetup"
+    url = "https://guild.host/rva-software-developers"
+    name = "fas fa-users"
     weight = 1
 
 [[menu.icon]]
