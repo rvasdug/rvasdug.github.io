@@ -20,3 +20,5 @@ Our values are:
 * CONTRIBUTION
   * Give back to local organizations
   * Free and Open Source software first
+
+**Please join us at [Guild](https://guild.host/rva-software-developers) to keep informed of future events.**
